@@ -123,7 +123,7 @@ Open all the files in the poised package in any Java IDE and run the Main.java f
 
 ## Code preview
 
-```
+```java
 // ----- Method to CAPTURE PROJECT information ----- //
 public void captureProject(Project projectName) {
 	
@@ -303,4 +303,4 @@ Megan Bisschoff
 
 Project submitted for Software Engineering learnership Level 2 Task 21 at [HyperionDev](https://www.hyperiondev.com/)
 
-[View](https://www.hyperiondev.com/portfolio/86596/) submission results and code review.
+[View](https://www.hyperiondev.com/portfolio/86596/) submission results.
