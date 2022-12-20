@@ -19,12 +19,12 @@ Updates:
 
 The program includes the following classes and subclasses:
 
-* Main()
-* Project()
-* Person()
-	* Architect()
-	* Contractor()
-	* Customer()
+* ``Main()``
+* ``Project()``
+* ``Person()``
+	* ``Architect()``
+	* ``Contractor()``
+	* ``Customer()``
 	
 ## The Program
 
@@ -109,13 +109,13 @@ This program employs the programming concepts of Java OOP including classes, acc
 
 ## Dependencies
 
-import java.util.Locale;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.Scanner;
+* import java.util.Locale;
+* import java.io.FileWriter;
+* import java.io.IOException;
+* import java.text.ParseException;
+* import java.text.SimpleDateFormat;
+* import java.util.Date;
+* import java.util.Scanner;
 
 ## Running the program
 
